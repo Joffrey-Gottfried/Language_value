@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Language Setter</string>
+    <string name ="language">LocaleUtils</string>
+</resources>
